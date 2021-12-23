@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="testing" label="TESTING" language="en" table="x_743288_test_tes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testing</element>
+            <help/>
+            <hint/>
+            <label>TESTING</label>
+            <language>en</language>
+            <name>x_743288_test_tes</name>
+            <plural>TESTINGs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-23 01:59:40</sys_created_on>
+            <sys_id>a4190a162fe00110b53cd7a72799b68c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TESTING</sys_name>
+            <sys_package display_value="TEST" source="x_743288_test">a38742162fa00110b53cd7a72799b601</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TEST">a38742162fa00110b53cd7a72799b601</sys_scope>
+            <sys_update_name>sys_documentation_x_743288_test_tes_testing_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-23 01:59:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
